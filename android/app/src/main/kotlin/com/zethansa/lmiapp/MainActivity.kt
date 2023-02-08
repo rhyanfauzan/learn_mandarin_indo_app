@@ -1,4 +1,4 @@
-package com.example.mandarin_indo_app
+package com.zethansa.lmiapp
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
                 } else if (mypageword != null && mypageword! == 31) {
                   Navigator.push(context, MaterialPageRoute(builder: (context) {
                     return WordsPage(
-                        title: "20000",
+                        title: "20000 Words",
                         selectFetch: lmiService.readWords20000(),
                         mypageword: mypageword!,
                         indexWord: prefs.getInt('myindexword') ?? 0);
@@ -119,7 +119,7 @@ class _HomePageState extends State<HomePage> {
                   mainAxisSpacing: 10,
                   crossAxisCount: 5,
                   children: [
-                    for (int index = 1; index <= 5; index++)
+                    for (int index = 1; index <= 30; index++)
                       InkWell(
                         onTap: () {
                           Navigator.push(context,

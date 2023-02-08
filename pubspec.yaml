@@ -53,6 +53,33 @@ flutter:
     - assets/data/kosakata3.json
     - assets/data/kosakata4.json
     - assets/data/kosakata5.json
+    - assets/data/kosakata6.json
+    - assets/data/kosakata7.json
+    - assets/data/kosakata8.json
+    - assets/data/kosakata9.json
+    - assets/data/kosakata10.json
+
+    - assets/data/kosakata11.json
+    - assets/data/kosakata12.json
+    - assets/data/kosakata13.json
+    - assets/data/kosakata14.json
+    - assets/data/kosakata15.json
+    - assets/data/kosakata16.json
+    - assets/data/kosakata17.json
+    - assets/data/kosakata18.json
+    - assets/data/kosakata19.json
+    - assets/data/kosakata20.json
+
+    - assets/data/kosakata21.json
+    - assets/data/kosakata22.json
+    - assets/data/kosakata23.json
+    - assets/data/kosakata24.json
+    - assets/data/kosakata25.json
+    - assets/data/kosakata26.json
+    - assets/data/kosakata27.json
+    - assets/data/kosakata28.json
+    - assets/data/kosakata29.json
+    - assets/data/kosakata30.json
     - assets/data/kosakata20000.json
 
 flutter_icons:

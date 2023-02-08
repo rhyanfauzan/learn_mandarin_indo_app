@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mandarin_indo_app">
+    package="com.zethansa.lmiapp">
    <application
         android:label="Learn Mandarin - Indonesia"
         android:name="${applicationName}"
